@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "s2a",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "13e4cfb9-f1ab-4263-b0dd-6e0fa1576b19",
+			"database_name": "s2a"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
